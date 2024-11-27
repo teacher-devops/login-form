@@ -1,6 +1,8 @@
 # Simple React Login Form
 
-# Steps to proceed with this project
+Frontend app for ci/cd with jenkins lab
+
+### Steps to proceed with this project
 
 1. git to jenkins
 2. connect docker file
