@@ -111,11 +111,11 @@ function App() {
               />
             </div>
             <p>{formErrors.confirmPassword}</p>
+            <br />
             <button className="fluid ui button blue">Submit</button>
           </div>
         </form>
         <div className="text">
-          Already have an account? <span>Login</span>
           Already have an account? <span>Login</span>
         </div>
       </div>{" "}
